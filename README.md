@@ -3,6 +3,7 @@ title: INTERVIEW COPAINS
 subtitle: Le Livre
 author: Manfred Touron
 creator: Manfred Touron
+papersize: b6
 publisher: Ultreme Publishing
 language: fr
 abstract: "INTERVIEW COPAINS - Le Livre."
@@ -44,7 +45,7 @@ La trilogie Back to the Future, Begin Again, The Blind Side et la trilogie Befor
 
 La Grande Vadrouille, Léon, Les Bronzés font du ski, Retour vers le Futur.
 
--- **Charly**
+-- **Tcharly**
 
 Le dernier qui m'a marqué et que j'aime beaucoup c'est «Les 4 aventures de Reinette et Mirabelle» d' Eric Rohmer
 
@@ -64,7 +65,7 @@ Là maintenant, je n'en ai pas.
 
 Avant c'était «J'ai tué ma mère» de Dolan et «Le Filmeur de Cavalier».
 
--- **Mirjana**
+-- **Mez**
 
 Aaltra.
 
@@ -102,7 +103,7 @@ Mais je peux te citer le dernier film qui m'a touché «Le sel de la terre» de 
 
 J'ai toujours aimé Into the Wild et Captain Fantastic, mais ce ne sont plus mes films préférés maintenant. J'adore Tucker and Dale versus Evil, vraiment, regardez ce film.
 
--- **Rosana**
+-- **Altorosa**
 
 * La soupe aux choux
 * Interstellar
@@ -166,7 +167,7 @@ J'aime bcp les musiques de film qui ont qqchose d'épique, et j'ai pdt toute une
 
 Rock, rock et aussi un peu de rock.
 
--- **Charly**
+-- **Tcharly**
 
 Celle que j'écoute en ce moment s'appelle «Les petites abeilles», elle est super.
 
@@ -180,7 +181,7 @@ J'ai pas de musiques préférées parce que je ne suis pas mélomane et je sais 
 
 En ce moment c’est Jaloux de Bilal Hassani, Delirium de Gargäntua, Bout de bois et Le cassoulet de Salut c’est cool.
 
--- **Mirjana**
+-- **Mez**
 
 * Aphex twin - Polynomial C, Rone - Bora (vocal)
 * Aphex twin, Boards of Canada, Above & Beyond, lone, lorn, rone
@@ -219,7 +220,7 @@ Tous leurs sons sont de pures merveilles.
 
 À part ça, j'adore l'OST d'Undertale et Francis Cabrel. Et tous les groupes de rock et de metal sur Terre.
 
--- **Rosana**
+-- **Altorosa**
 
 Les fleurs de Salut c'est cool.
 
@@ -237,7 +238,7 @@ Venus, album Vertigone
 
 Si j'avais Spotify je t'enverrais une playlist :p
 
--- **Tuthur**
+-- **Anonyme**
 
 ![](images/image5.png)
 
@@ -267,7 +268,7 @@ Des livres techniques.
 
 Je n'aime pas les romans.
 
--- **Charly**
+-- **Tcharly**
 
 Là j'ai commencé «Grand Père» de Jean Louis Costes, il démarre sur les chapeaux de roues !
 
@@ -288,7 +289,7 @@ En tout cas, mes écrivains totem c’est Ernaux, Kerouac, Proust, Reve, Thoreau
 
 Pas pour fétichiser leurs livres mais parce que la lecture de leurs ouvrages a façonné mon rapport à la vie et à l’écriture.
 
--- **Mirjana**
+-- **Mez**
 
 L'étranger.
 
@@ -330,7 +331,7 @@ Haha, je crois que je l'ai déjà dit plus haut.
 
 Le livre, pas le film.
 
--- **Rosana**
+-- **Altorosa**
 
 La prophétie des Andes.
 
@@ -358,7 +359,7 @@ et plein d'autres qui me reviennent pas de suite.
 
 RTFM Les magazines, ça marche ? Linux MISC.
 
--- **Tuthur**
+-- **Anonyme**
 
 En ce moment, la série du Royaume des Anciens de Robin Hobb. Mais ça change tout le temps.
 
@@ -374,7 +375,7 @@ En ce moment, la série du Royaume des Anciens de Robin Hobb. Mais ça change to
 
 ## Quels sont tes jeux vidéos ou jeux de société préférés ?
 
-> _**L'univers Zelda est populaire, mentionné par Martin Guggi, Tomassin, Rosana, Théo et Thomas Dumond.**_
+> _**L'univers Zelda est populaire, mentionné par Martin Guggi, Tomassin, Altorosa, Théo et Thomas Dumond.**_
 
 > _**Mario et Pokemon ont également été mentionnés à quelques reprises.**_
 
@@ -384,7 +385,7 @@ Je dirais également Skyrim l'incontestable et tous les Zeldas auxquels j'ai jou
 
 Et le Mystrerium en jeu de société !
 
--- **Rosana**
+-- **Altorosa**
 
 * L'aventurier du rail
 * Small world
@@ -393,13 +394,13 @@ Et le Mystrerium en jeu de société !
 
 Candy Crush ça passe ?
 
--- **Anne-Louise**
+-- **Arc-en-Ciel**
 
 Je ne joue pas mais il y a longtemps, j'aimais bien les petits chevaux et le Cluedo.
 
 Les petits chevaux, pour moi, c'était une métaphore de la vie : il y avait tout le monde bien au chaud dans l'écurie au début et puis, petit à petit, chaque cheval accomplissait son chemin sur le plateau, jusqu'à l'ascension finale passant par le 1, le 2, le 3, le 4, le 5 et le 6 avant de disparaître.
 
--- **Mirjana**
+-- **Mez**
 
 ![](images/image10.png)
 
@@ -413,7 +414,7 @@ Toute seule : écrire, faire des vidéos, regarder des vidéos.
 
 (Liste incroyablement pas exhaustive.)
 
--- **Mirjana**
+-- **Mez**
 
 J'aime imaginer comment les choses pourraient être, par ex quand je rentre dans une nouvelle pièce, j'aime la scanner et la réagencer dans ma tête pour l'optimiser. Mais ce n'est qu'un exemple, je fais ça pour bcp de choses, y compris les villes que je visite ou les frigos que j'ouvre.
 
@@ -453,7 +454,7 @@ Je financerais une maison d'artistes et les jeunes qui n'ont pas les moyens fina
 
 Je créerais un espace de travail gratuit, confort et convivial qui donne envie de travailler et favorise les rencontres entre les différents corps d'études/métiers.
 
--- **Anne-Louise**
+-- **Arc-en-Ciel**
 
 Si je gagnais au loto, je réaliserais cette aspiration : avoir un lieu de vie, joli et accessible, qui serait une maison, très bien décorée, d'une manière très travaillée et minimaliste où on se sentirait bien.
 
@@ -463,11 +464,11 @@ Il y aurait de la nature à proximité et tout ce qui est nécessaire et agréab
 
 Ce serait un lieu où je pourrais vivre avec ma famille future mais surtout où je pourrais recevoir, très convenablement, tous les gens que j'aime pour qu'ils s'y sentent comme chez eux, qu'ils s'y sentent bien et qu'ils puissent se ressourcer tout en créant et en prenant du très bon temps pour eux et surtout du temps ensemble, du vrai temps récréatif, du temps qui n'épuise pas, du temps à sa vraie valeur de temps.
 
--- **Mirjana**
+-- **Mez**
 
 Un festival de bâtard, que j'appellerais le festibat, et un bieroduc Brugges/Val de reuil.
 
--- **Charly**
+-- **Tcharly**
 
 Je n'ai pas hyper envie de devenir riche...
 
@@ -475,7 +476,7 @@ Je donnerais beaucoup d'argent à ma maman, parce qu'elle a plein de projets sup
 
 J'en garderais peut être un peu pour acheter une maison et des études, mais je donnerais beaucoup aussi.
 
--- **Rosana**
+-- **Altorosa**
 
 Tout dépend du montant, mais grossièrement, c'est ça ma stratégie d'investissement :
 
@@ -505,17 +506,17 @@ Mais pour ça, il faudrait déjà que je joue...
 
 ![](images/image3.png)
 
-> _**Thomas et Tuthur iraient au PMU pour jouer leurs gains.**_
+> _**Thomas et Anonyme iraient au PMU pour jouer leurs gains.**_
 
 > _**D'autres célébreront en mangeant et en buvant :**_
 
 J'achèterais 2 glaces et j'irais me promener avec mon chéri.
 
--- **Anne-Louise**
+-- **Arc-en-Ciel**
 
 Ça existe ce truc ? Je mangerais une crêpe.
 
--- **Charly**
+-- **Tcharly**
 
 Je claque le champagne direct.
 
@@ -551,7 +552,7 @@ J'ai une vague image de grille, de boules noires et de boules blanches, couplée
 
 Je vois aussi un caniche (qui n'est pas un caniche mais un bichon), coiffé avec un petit noeud comme le sont kitschement tous les bichons.
 
--- **Mirjana**
+-- **Mez**
 
 Je pense au bingo de campagne et que je gagnerais un cadeau miteux, genre un déambulateur offert par la maison de retraite du coin donc je passerais une vie heureuse en me disant qu'un jour je serai vieux et je pourrai faire chier les gens à être super lent partout où j'irai, je m'arrêterai sur les passages piétons et je ferai des doigts d'honneur à ceux qui me klaxonnent !
 
@@ -561,13 +562,13 @@ Je pense au bingo de campagne et que je gagnerais un cadeau miteux, genre un dé
 
 J'en acheterais un autre (bah oui, j'ai gagné au loto).
 
--- **Charly**
+-- **Tcharly**
 
 * L'amour avec mon chéri
 * La paix avec mon frère
 * Des câlins à ma famille et mes amis
 
--- **Anne-Louise**
+-- **Arc-en-Ciel**
 
 Probablement ce que je fais déjà tous les jours.
 
@@ -603,11 +604,11 @@ Venez tou-te-s mes ami-e-s ! On prépare un grand repas et on danse !
 
 Je me trouverais bête de penser qu'il faudrait que ce jour soit différent puisqu'il serait, précisément, dans la continuité de tous les autres alors je présume que je le laisserais exister tel qu'il serait ou alors je ferais quelque chose d'un peu fou, éprise d'une petite adrénaline soudaine de fin de vie, who knows ?
 
--- **Mirjana**
+-- **Mez**
 
 Je ne le dirais à personne.
 
--- **Tuthur**
+-- **Anonyme**
 
 Se faire déposer avec ma copine sur une pointe montagneuse et admirer un dernier lever de soleil et s'éteindre avec le dernier coucher dans les bras de ma copine.
 
@@ -627,7 +628,7 @@ Je le dirais à tout plein de gens que j'aime, j'écrirais une lettre sincère d
 
 Et j'irais loin, dans la forêt ou la campagne, pour admirer encore un peu la beauté du monde.
 
--- **Rosana**
+-- **Altorosa**
 
 Des crêpes.
 
@@ -715,7 +716,7 @@ J'irais aussi peindre tout ce que la justice m'a convaincu de ne pas peindre sur
 2. Avoir des enfants sans passer par la case «enceinte, nauséeuse, grosse, râleuse, vergetures, crevée, couches, dégueuli».
 3. Savoir cuisiner hyper bien.
 
--- **Anne-Louise**
+-- **Arc-en-Ciel**
 
 1. Comprendre la physique quantique à échelle macroscopique,
 2. Etre avec des gens cools,
@@ -755,7 +756,7 @@ J'irais aussi peindre tout ce que la justice m'a convaincu de ne pas peindre sur
 * un thermos/gourde
 * des graines de plantes/légumes/fruits
 
--- **Tuthur**
+-- **Anonyme**
 
 Un bateau ou un couteau si le bateau ne rentre pas dans le sac !
 
@@ -763,7 +764,7 @@ Un bateau ou un couteau si le bateau ne rentre pas dans le sac !
 
 Quelques outils de kiff et de survie et un mec stylé (parce que le plus chiant sur une île déserte, ça reste d'être perpétuellement tout seul nulle part, ce qui n’est cool que temporairement).
 
--- **Mirjana**
+-- **Mez**
 
 ## Que ferais-tu si tu devenais sourd(e) ?
 
@@ -773,11 +774,11 @@ Houlà, super dur, mais perdre ce moyen de communication je pense que ça me per
 
 J'invente un dictaphone «pour sourds» qui me permet de comprendre (par écrit) tout ce que les gens disent en direct live !
 
--- **Anne-Louise**
+-- **Arc-en-Ciel**
 
 Je suis déjà sourd ! J'apprendrais le langage des signes.
 
--- **Charly**
+-- **Tcharly**
 
 J'écrirais des symphonies perdues.
 
@@ -793,7 +794,7 @@ J'aurais peut-être, quand même, l'impression d'avoir un pouvoir, celui que le 
 
 Mais je serais triste à force car il me manquerait quelque chose.
 
--- **Mirjana**
+-- **Mez**
 
 Je ferais de la photographie.
 
@@ -821,7 +822,7 @@ Oh... ce serait super triste.
 
 Je crois que je vivrais dans une sorte de tranquillité triste en permanence, et je sais pas si j'aurais vraiment le courage de vivre longtemps.
 
--- **Rosana**
+-- **Altorosa**
 
 Danseuse.
 
@@ -845,7 +846,7 @@ Je pense que ca devrait bien se passer, je deviendrais sûrement un peu fou au d
 
 Et j'apprendrais enfin le langage des signes.
 
--- **Tuthur**
+-- **Anonyme**
 
 J'apprendrais plusieurs langues des signes, en commençant par la LDS française et ensuite d'autres.
 
@@ -865,11 +866,11 @@ Je pense que je deviendrais obsédée par la nourriture et trouverait des moyens
 
 Je me cognerais partout, comme d'hab en fait !
 
--- **Anne-Louise**
+-- **Arc-en-Ciel**
 
 Je valoriserais les autres sens.
 
--- **Charly**
+-- **Tcharly**
 
 Je serais le premier DJ aveugle, et j'en profiterais pour toucher le visage des gens.
 
@@ -881,7 +882,7 @@ De la musique de sourd.
 
 Franchement, là je serai super triste, je dépérirais de l'intérieur.
 
--- **Mirjana**
+-- **Mez**
 
 Je ferais de la musique.
 
@@ -909,7 +910,7 @@ Je vivrais certainement cloitrée chez moi à déprimer, ou alors je sortirais l
 
 Je déciderais peut être de m'éloigner de la ville pour toujours également.
 
--- **Rosana**
+-- **Altorosa**
 
 Plus de musique, moins de photo, plus de cuisine, moins de vélo, et surtout plus de sorties nocturnes, à priori je n’aurais plus peur de l’obscurité.
 
@@ -927,7 +928,7 @@ Je le suis déjà un tout petit peu sans lunettes.
 
 Je pense que je m’abonnerais enfin à netflix XD
 
--- **Tuthur**
+-- **Anonyme**
 
 Je redécouvrirais l'univers à travers de nouvelles expériences, j'imagine que le début ne sera pas évident.
 
@@ -947,7 +948,7 @@ Bah du coup, je me remets au piano et j'achète des lunettes de soleil stylées.
 
 Bah... rien !
 
--- **Charly**
+-- **Tcharly**
 
 > _**La plupart des gens préféreraient en finir une fois pour toutes.**_
 
@@ -1004,7 +1005,7 @@ Vu que c'est offert faut en profiter :)
 * Australie,
 * Tahiti.
 
--- **Anne-Louise**
+-- **Arc-en-Ciel**
 
 * France,
 * Islande,
@@ -1017,7 +1018,7 @@ Vu que c'est offert faut en profiter :)
 * Chine et
 * Népal.
 
--- **Charly**
+-- **Tcharly**
 
 * Liechtenstein,
 * Bhoutan,
@@ -1054,7 +1055,7 @@ Dedans il y a la
 
 Pas l'Amérique latine ou l'Inde.
 
--- **Mirjana**
+-- **Mez**
 
 Je triche et je ne mets pas que des pays :
 
@@ -1096,7 +1097,7 @@ Je pense aller dans les pays producteurs de rhum tels que les Barbades, j'irais 
 
 J'irai en Asie, pour un moment, passant par le Japon et la Chine, en Europe pour voir l'Estonie et la Norvège, au Moyen Orient pour l'Israël et le Liban et puis aussi en Nouvelle Zélande, au Sierra Léone, en Argentine et au Groenland.
 
--- **Rosana**
+-- **Altorosa**
 
 * Canada
 * Pérou
@@ -1156,7 +1157,7 @@ Pour l'instant mes incontournables :
 * Pérou
 * les îles dans le pacifique : Tahiti, Honolulu, Polynésie...
 
--- **Tuthur**
+-- **Anonyme**
 
 Je choisirais pas en fonction des pays mais plutôt des gens que j'ai envie d'aller rencontrer.
 
@@ -1206,7 +1207,7 @@ On se branche sur le bieroduc en direct.
 
 Comme ça fuit, on se baigne dans la bière en écoutant les groupes qui jouent sur des barques et on prévoit quand même des bouées pour se reposer et manger entre deux.
 
--- **Charly**
+-- **Tcharly**
 
 Un truc chill, avec bcp d'ombre pour pouvoir s'installer tranquilou et écouter la musique de loin et surtout pas de queue aux toilettes des filles.
 
@@ -1247,7 +1248,7 @@ Genre t'as pas de musique dans les manèges si t'en veux pas, tu peux changer la
 
 Ce serait un parc avec genre plein de plantes géantes, de super animaux qui seraient bien traités, plein d'insectes étranges et puis aussi des grands fossiles, un peu comme un musée vivant, avec beaucoup de choses à l'intérieur !
 
--- **Rosana**
+-- **Altorosa**
 
 Plus un truc genre foire du trône, avec des univers différents, des trucs qui font peur ou qui font voyager.
 
@@ -1269,11 +1270,11 @@ Inventrice de machine à voyager dans le temps et l'espace pour pouvoir tout exp
 
 Donneuse de leçons professionnelle.
 
--- **Anne-Louise**
+-- **Arc-en-Ciel**
 
 Touriste de l'espace.
 
--- **Charly**
+-- **Tcharly**
 
 Choisisseur des couleurs des choses du monde.
 
@@ -1285,7 +1286,7 @@ Un métier où vivre serait gratuit.
 
 Un métier dans lequel j'agencerais mon emploi du temps à ma grande guise et où je pratiquerais plusieurs professions : manageuse et coach créative de gros influenceurs 3 jours de la semaine, guide d'endroits insolites un après-midi, conférencière certaines soirées, coach de développement personnel sur certains créneaux, organisatrice de fêtes excentriques ponctuellement, écrivaine le week-end, etc.
 
--- **Mirjana**
+-- **Mez**
 
 Ne pas avoir de métier précis, juste « faire des trucs ».
 
@@ -1317,7 +1318,7 @@ Je pourrais m'occuper du parc d'attractions juste au dessus :) nourrir les anima
 
 Il pourrait être placé dans le Sud comme ça il y aurait beaucoup de soleil et ça me rendrait joyeuse !
 
--- **Rosana**
+-- **Altorosa**
 
 Endormeuse professionnelle, comme ça les gens dorment et font de jolis rêves et comme ça la journée tout le monde est détendu et sympa.
 
@@ -1339,7 +1340,7 @@ Pas besoin de travailler plus de 3 heures par jour.
 
 Travailler pour la communauté, de manière équilibrée, équitable.
 
--- **Tuthur**
+-- **Anonyme**
 
 Aubergiste-hypnothérapeute-maître du monde.
 
@@ -1362,11 +1363,11 @@ Directrice de création pour une marque que j'aurais créée de toute pièce.
 
 Meilleure amie.
 
--- **Anne-Louise**
+-- **Arc-en-Ciel**
 
 Musicien.
 
--- **Charly**
+-- **Tcharly**
 
 Cantonnier.
 
@@ -1378,7 +1379,7 @@ Doubleur de dessins animés.
 
 Celui que je viens d'indiquer plus haut, avec un peu moins de fantaisie.
 
--- **Mirjana**
+-- **Mez**
 
 Astronaute.
 
@@ -1394,7 +1395,7 @@ Si un métier était parfait pour moi, ça voudrait dire que les 13 milliards d'
 
 Pour l'instant je le cherche encore ! ^^
 
--- **Rosana**
+-- **Altorosa**
 
 La retraite.
 
@@ -1406,7 +1407,7 @@ Mon métier actuel j'imagine.
 
 Celui que j'ai est pas trop mal : «Redteamer».
 
--- **Tuthur**
+-- **Anonyme**
 
 Sans-emploi.
 
@@ -1447,7 +1448,7 @@ Je chercherais Ibra, et je ferais une vidéo avec lui, avant de lui parler de se
 
 (Pour ceux qui ont pas la réf, Ibra c’est un gros youtubeur français d’origine tchétchène qui s’était enfermé dans un supermarché.)
 
--- **Mirjana**
+-- **Mez**
 
 J'irais aligner les boîtes de petits pois-carottes, changer le néon qui clignote au dessus des yaourts et retirer tous les bombecs devant les caisses (c'est le maaal).
 
@@ -1475,7 +1476,7 @@ Football féminin.
 
 Du bondage créatif acrobatique.
 
--- **Mirjana**
+-- **Mez**
 
 Des pyramides humaines : le truc qu'ils font dans les régions du sud où il y a 50 mecs qui forment une pyramide GÉANTE !
 
@@ -1493,7 +1494,7 @@ L'histoire de ta pire chose (drôle) qui te soit arrivée.
 
 Quel est ton rêve le plus fou ?
 
--- **Charly**
+-- **Tcharly**
 
 P’tèt une question sur le truc de merde, ce qui me turlupine, m'énerve ou m'agace.
 
@@ -1503,7 +1504,7 @@ Des questions très détaillées et factuelles qui permettent de répondre de ma
 
 Ou alors « Quelle est ta boisson préférée ? », etc. Comme à l'époque de ces très chers skyblog pleins de questionnaires en tous genres.
 
--- **Mirjana**
+-- **Mez**
 
 Est-ce que t'aimes ?
 
@@ -1521,11 +1522,11 @@ Une question sur les échecs ou les regrets.
 
 Que ferais-tu en plus dans ta vie si tu étais du sexe opposé ?
 
--- **Anne-Louise**
+-- **Arc-en-Ciel**
 
 Le paraplégique.
 
--- **Charly**
+-- **Tcharly**
 
 Que ferais-tu si tu devenais tétraplégique ?
 
@@ -1537,7 +1538,7 @@ J'aime pas trop les questions de trucs préférés, je trouve ça toujours diffi
 
 Des questions qui essayent juste de savoir pour assouvir une curiosité bizarre, pour faire des jugements, des diagnostics, des comparaisons avec ce que ceux qui posent la question pensent être la façon la plus appropriée de vivre sa vie.
 
--- **Mirjana**
+-- **Mez**
 
 Sont toutes bien, festival et parc d'attractions trop longues à répondre.
 
@@ -1549,13 +1550,13 @@ La taille du pénis dans un seau de glaçons !
 
 Une question, ma vie sexuelle je pense.
 
--- **Rosana**
+-- **Altorosa**
 
 Ta situation sentimentale ?
 
 Ta santé mentale ?
 
--- **Tuthur**
+-- **Anonyme**
 
 Combien de Big Mac sont vendus chaque jour ?
 
@@ -1576,7 +1577,7 @@ Dans 10 ans, de combien aura augmenté le niveau de l'eau ?
 
 Fière de ma sociabilité.
 
--- **Anne-Louise**
+-- **Arc-en-Ciel**
 
 Mes enfants et ma vie de famille en général.
 
@@ -1584,7 +1585,7 @@ Mon boulot, la musique aussi.
 
 Merde, elle est cool ma vie.
 
--- **Charly**
+-- **Tcharly**
 
 Content d'avoir vécu ma meilleure vie.
 
@@ -1598,7 +1599,7 @@ D'avoir vécu plein de choses folles et d'être toujours là.
 
 D'avoir traversé des tas de périodes et d'histoires de vie (que je pourrais lister mais ce serait tellement intime et peut-être surprenant de les citer ainsi sans savoir qui lira) et d'avoir créé la volonté d'oeuvrer pour vivre.
 
--- **Mirjana**
+-- **Mez**
 
 Je ne me suis pas tué, malgré quelques accidents de parcours et erreurs de jugement.
 
@@ -1606,7 +1607,7 @@ Je ne me suis pas tué, malgré quelques accidents de parcours et erreurs de jug
 
 D'avoir testé plein de différents domaines et voyagé un peu, d'avoir rencontré des gens super et avoir passé de chouettes moments ensemble.
 
--- **Rosana**
+-- **Altorosa**
 
 Fier d’avoir des amis qui soient tous aussi radicalement différents, talentueux, inspirés et intelligents.
 
@@ -1644,11 +1645,11 @@ Je n'ai pas repris la cigarette.
 
 Fière d'être auto-entrepreneuse.
 
--- **Anne-Louise**
+-- **Arc-en-Ciel**
 
 Mon grand qui sait lire et qui a récemment expliqué (à 6 ans) ce qu'est l'ère tertiaire à sa grand mère (merci « C'est pas sorcier »).
 
--- **Charly**
+-- **Tcharly**
 
 Fier d'avoir croisé le regard d'un membre de camembert au lait crew par hasard dans la rue.
 
@@ -1662,7 +1663,7 @@ D'avoir décroché un CDI, créé exprès pour moi, dans le milieu qui m'était 
 
 D'avoir avancé sur d'autres aspects de ma vie ; ça se raconte en pages de traitement de texte ou en heures de discussion.
 
--- **Mirjana**
+-- **Mez**
 
 Avoir acheté un bien et emménagé avec ma copine.
 
@@ -1684,7 +1685,7 @@ Je n'ai rien accompli, jamais rien fini et perdu pas mal confiance en moi.
 Si je dois dire une chose tout de même, j'ai battu Sans, le boss final d'Undertale.
 J'y ai passé des mois, mais ça valait mille fois le coup.
 
--- **Rosana**
+-- **Altorosa**
 
 Ma famille.
 
@@ -1729,11 +1730,11 @@ C'est un extrait du poème Épitaphe de Corbière.
 
 En fait non, citation de Hunter S. Thompson.
 
--- **Mirjana**
+-- **Mez**
 
 «personne ne quitte ce monde vivant»
 
--- **Rosana**
+-- **Altorosa**
 
 «Sortez-moi de là»
 
@@ -1795,7 +1796,7 @@ Toujours vouloir être vieux mais sur un bateau dont je serais le capitaine !
 
 Je ne sais même pas quoi faire demain... hahaha.
 
--- **Rosana**
+-- **Altorosa**
 
 Probablement toujours de l'informatique, dans un nouveau pays.
 
@@ -1803,11 +1804,11 @@ Probablement toujours de l'informatique, dans un nouveau pays.
 
 J'espère des choses bien, dans un monde pas moins bien, qui n'aura pas trop mal évolué.
 
--- **Mirjana**
+-- **Mez**
 
 Je changerais des couches ou bien je serais une super star, j'hésite encore !
 
--- **Anne-Louise**
+-- **Arc-en-Ciel**
 
 ## Tu revois un(e) ami(e) que tu n'as pas vu(e) depuis 10 ans (ex-collègue, ex-pote de classe, ex-amour), comment te présentes-tu ? comment décris-tu ton évolution ?
 
@@ -1819,7 +1820,7 @@ J'aurais du mal à décrire mon évolution, parce qu'il s'est passé tant de cho
 
 Les gens que je n'ai pas revus depuis dix ans, c'est des gens de mon lycée et je m'en fiche un peu d'eux.
 
--- **Mirjana**
+-- **Mez**
 
 Je fais un dessin sans y penser, négligemment et c'est le plus beau que j'ai jamais fait, je lui donne et il comprend tout.
 
@@ -1853,7 +1854,7 @@ Yes, Aï am French !
 
 But Aï spique Inglich veri ouel end you ?
 
--- **Anne-Louise**
+-- **Arc-en-Ciel**
 
 Prends ma bio Instagram :
 
@@ -1863,7 +1864,7 @@ Prends ma bio Instagram :
 * 🌅 Discoveries, exploration, curiosity & fun
 * 🌺 Poetry everywhere
 
--- **Mirjana**
+-- **Mez**
 
 J'aime la vie et pas l'humain, je crois que l'invention du « dieu » est une manière stupide de se déresponsabiliser de sa capacité à influer sur tout un tas de choses autour de nous et d'éviter d'en comprendre beaucoup d'autres !
 
@@ -1871,11 +1872,11 @@ Alors j'ai décidé d'être bienveillant et de faire mon temps comme je l'entend
 
 -- **Pieranus**
 
-Salut ! :) Je m'appelle Rosana et je sais pas trop trop quoi faire de ma vie.
+Salut ! :) Je m'appelle Altorosa et je sais pas trop trop quoi faire de ma vie.
 
 Je fais un peu de musique, un peu de dessin et deux trois autres trucs, mais je maîtrise rien et je sers un peu à rien.
 
--- **Rosana**
+-- **Altorosa**
 
 ## Quel mot aimerais-tu ajouter au dictionnaire, quelle en serait la définition ?
 
@@ -1883,7 +1884,7 @@ Le possimpible.
 
 L'impossible est possible.
 
--- **Charly**
+-- **Tcharly**
 
 Sweaks.
 
@@ -1960,7 +1961,7 @@ Et puis évidemment il va falloir faire un truc pour les violences policières..
 
 Enfin, il y a beaucoup de choses à travailler...
 
--- **Rosana**
+-- **Altorosa**
 
 D’abord les miennes, pour le costume.
 
@@ -2013,3 +2014,7 @@ Du coup, les enfants pourraient rien demander à la maîtresse et devraient se d
 Celui qui dit qu'il sait, il a perdu.
 
 -- **zôÖma**
+
+# Remerciements
+
+Merci
