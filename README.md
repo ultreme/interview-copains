@@ -1625,7 +1625,7 @@ J'étais pas le meilleur des cons à cette époque, ha ha ha.
 
 -- **Tomassin**
 
-Je suis fier d'avoir appris à ouvrir mes portes avant d'ouvrir mon esprit.
+Je suis fier d'avoir appris à ouvrir mes ports avant d'ouvrir mon esprit. (UDP, TCP).
 
 -- **William**
 
